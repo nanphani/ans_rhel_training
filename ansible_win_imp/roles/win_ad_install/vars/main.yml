@@ -1,0 +1,5 @@
+---
+# vars file for roles/win_ad_install
+ansible_password: jVMijRwLbI02gFCo2xkjlZ9lxEA7bm7zgg==
+ad_domain_name: ad1.9ea9.example.opentlc.com
+...
