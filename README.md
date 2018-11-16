@@ -1,2 +1,2 @@
-# ans_rhel_training
-Ansible training
+# dev_ansible
+Learning Ansible
